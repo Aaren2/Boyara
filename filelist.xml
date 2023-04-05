@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="BoyaraGay" modversion="1.0.4" corepackage="False"  gameversion="1.0.7.0" >
+  <Character file="%ModDir%/Human/Human.xml" />
+</contentpackage>
